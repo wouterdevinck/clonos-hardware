@@ -5,7 +5,7 @@ by Wouter Devinck
 
 Repositories
 ------------
- * Hardware (block diagram, schematic, pcb layout, ...): <br />
+ * **Hardware** (block diagram, schematic, pcb layout, ...): <br />
    https://github.com/wouterdevinck/clonos-hardware
  * Software (QT application, GStreamer interaction, ...): <br />
    https://github.com/wouterdevinck/clonos-application
