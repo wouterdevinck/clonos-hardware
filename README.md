@@ -13,6 +13,8 @@ Repositories
    https://github.com/wouterdevinck/clonos-build
  * Android app: <br />
    https://github.com/wouterdevinck/clonos-android
+ * Efforts to reverse engineer Spotify Connect: <br />
+   https://github.com/wouterdevinck/clonos-poc-spotify
 
 Block diagram
 -------------
